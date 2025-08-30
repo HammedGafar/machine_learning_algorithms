@@ -1,6 +1,6 @@
 # Machine Learning Algorithms
 
-A collection of classic **machine learning** and **deep learning** algorithm implementations and tutorials—including regression, perceptron, neural network basics, and a Keras-based CNN on CIFAR-10.
+A collection of classic **machine learning** and **deep learning** algorithm implementations including regression, perceptron, neural network basics, and a Keras-based CNN on CIFAR-10.
 
 ---
 
@@ -26,14 +26,12 @@ This repository provides educational implementations and interactive demos of fo
 
 | File / Notebook                 | Description                                                  |
 |--------------------------------|--------------------------------------------------------------|
-| `Linear_regression.ipynb`      | Linear regression tutorial and implementation                |
-| `logistic_regression.ipynb`    | Logistic regression—binary classification explained           |
-| `perceptron_learning_algorithm.ipynb` | Basic perceptron from scratch                         |
+| `Linear_regression.py`      | Linear regression implementation                |
+| `logistic_regression.py`    | Logistic regression—binary classification explained           |
+| `pla.py` | Basic perceptron from scratch                         |
 | `polynomial_regression.ipynb`  | Extension of linear regression to polynomial features        |
-| `neural_network.ipynb`         | Simple feed-forward neural network implemented from scratch  |
+| `nn.py`         | Simple feed-forward neural network implemented from scratch  |
 | `keras_CNN_CIFAR10.ipynb`      | Keras-based CNN trained on CIFAR-10 dataset                  |
-
-*(Adjust file names if they include extensions like `.ipynb` or `.py`.)*
 
 ---
 
