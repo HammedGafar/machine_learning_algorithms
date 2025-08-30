@@ -9,10 +9,7 @@ A collection of classic **machine learning** and **deep learning** algorithm imp
 - Overview
 - Contents
 - How to Use
-- Prerequisites
-- File Descriptions
-- Contact
-- License
+
 
 ---
 
